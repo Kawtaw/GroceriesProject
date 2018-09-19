@@ -1,7 +1,14 @@
 To Do List
-1.
-2.
-3.
-4.
-5.
-6.
+1. Customer select and item type in the quantity of the item that they're trying to purchase.
+
+2. The algorithm should know how to detect error, for example if customer put in an invalid character the program will display a text 
+saying error.
+
+3. When a valid amount of item has been selected, customer will have to make a payment, the program will display UI giving the customer
+the option of different kind of payment.
+
+4. After correct billing information is filled, customer will have to select the shipping option, the premium is more expensive but will
+deliver the items quicker.
+
+5. After payment and shipping information is completed, the AI prepared for packing items and putting on label, staffs will also double
+check if all the information is correct.
